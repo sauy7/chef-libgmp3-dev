@@ -1,4 +1,4 @@
-name 'chef-libgmp3-dev'
+name 'libgmp3-dev'
 description 'Cookbook to install libgmp3-dev on Ubuntu'
 maintainer: 'Tim Heighes'
 maintainer_email: 'tim@onegiantleap.se'
